@@ -15,6 +15,7 @@ public class Tree {
     }
 public void func(){
 }
+//ghkghjkghjkghjk
 
     public void addLeaf(int number){
         if(TreeRoot==null){
