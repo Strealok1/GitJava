@@ -13,6 +13,8 @@ public class Tree {
         counter=0;
         maximumTreeNodesAmount=0;
     }
+public void func(){
+}
 
     public void addLeaf(int number){
         if(TreeRoot==null){
